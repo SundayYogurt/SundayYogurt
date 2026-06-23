@@ -105,7 +105,7 @@ func main() {
 
 <a href="https://github.com/SundayYogurt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SundayYogurt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6EE7F7&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundayYogurt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8&hide=php,blade,vba,solidity,scss"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundayYogurt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8&hide=php,blade,vba,solidity,scss&size_weight=0.5&count_weight=0.5"/>
 </a>
 
 </div>
