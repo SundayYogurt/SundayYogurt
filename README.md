@@ -104,7 +104,7 @@ func main() {
 <div align="center">
 
 <a href="https://github.com/SundayYogurt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SundayYogurt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6EE7F7&text_color=ffffff&show=commits"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SundayYogurt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6EE7F7&text_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundayYogurt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
 </a>
 
@@ -144,7 +144,7 @@ func main() {
   <a href="https://github.com/SundayYogurt">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/SundayYogurt">
+  <a href="https://www.linkedin.com/in/kritsana-piwgram-8131a2387/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
