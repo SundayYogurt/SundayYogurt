@@ -104,22 +104,14 @@ func main() {
 <div align="center">
 
 <a href="https://github.com/SundayYogurt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SundayYogurt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6EE7F7&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundayYogurt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SundayYogurt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6EE7F7&text_color=ffffff&show=commits"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundayYogurt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
 </a>
 
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SundayYogurt&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=F472B6&fire=F472B6&currStreakLabel=A78BFA" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SundayYogurt&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
