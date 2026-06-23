@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**SundayYogurt/SundayYogurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
 
 <!-- Header Wave -->
@@ -15,9 +11,9 @@
 <br/>
 
 <!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=kritsanalalu5&color=A78BFA&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=SundayYogurt&color=A78BFA&style=flat-square&label=Profile+Views)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/kritsanalalu5?style=flat-square&color=6EE7F7&label=Followers)](https://github.com/kritsanalalu5)
+[![GitHub followers](https://img.shields.io/github/followers/SundayYogurt?style=flat-square&color=6EE7F7&label=Followers)](https://github.com/SundayYogurt)
 
 </div>
 
@@ -107,15 +103,15 @@ func main() {
 
 <div align="center">
 
-<a href="https://github.com/kritsanalalu5">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kritsanalalu5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6EE7F7&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritsanalalu5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff"/>
+<a href="https://github.com/SundayYogurt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SundayYogurt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6EE7F7&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundayYogurt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff"/>
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritsanalalu5&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=F472B6&fire=F472B6&currStreakLabel=A78BFA" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SundayYogurt&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=F472B6&fire=F472B6&currStreakLabel=A78BFA" />
 </div>
 
 ---
@@ -123,7 +119,7 @@ func main() {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kritsanalalu5&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SundayYogurt&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -131,7 +127,7 @@ func main() {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritsanalalu5&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=6EE7F7&point=F472B6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SundayYogurt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=6EE7F7&point=F472B6" />
 </div>
 
 ---
@@ -150,13 +146,13 @@ func main() {
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:kritsanalalu5@gmail.com">
+  <a href="mailto:SundayYogurt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/kritsanalalu5">
+  <a href="https://github.com/SundayYogurt">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/kritsanalalu5">
+  <a href="https://linkedin.com/in/SundayYogurt">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -171,14 +167,3 @@ func main() {
 *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
 
 </div>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
